@@ -122,6 +122,6 @@
             isJumping = false; 
         }
 
-    }
+      }
 
-}
+     }
